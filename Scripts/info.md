@@ -9,3 +9,6 @@
 
 4. Scripts Bucket Name:
     yt-pipeline-scripts-bucket-eu-west-3
+    
+5. SNS ARN:
+arn:aws:sns:eu-north-1:732592767911:yt-data-pipeline-alerts:88cb91fc-11ce-4c36-a04b-582ddc2404df
